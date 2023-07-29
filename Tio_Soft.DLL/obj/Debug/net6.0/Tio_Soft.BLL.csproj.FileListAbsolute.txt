@@ -1,0 +1,17 @@
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\bin\Debug\net6.0\Tio_Soft.BLL.deps.json
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\bin\Debug\net6.0\Tio_Soft.BLL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\bin\Debug\net6.0\Tio_Soft.BLL.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.AssemblyInfo.cs
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\refint\Tio_Soft.BLL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\ref\Tio_Soft.BLL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\bin\Debug\net6.0\Tio_Soft.DAL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\bin\Debug\net6.0\Tio_Soft.Entity.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\bin\Debug\net6.0\Tio_Soft.DAL.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\bin\Debug\net6.0\Tio_Soft.Entity.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DLL\obj\Debug\net6.0\Tio_Soft.BLL.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\bin\Debug\net6.0\Tio_Soft.Entity.deps.json
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\bin\Debug\net6.0\Tio_Soft.Entity.runtimeconfig.json
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\bin\Debug\net6.0\Tio_Soft.Entity.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\bin\Debug\net6.0\Tio_Soft.Entity.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.csproj.AssemblyReference.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.AssemblyInfoInputs.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.AssemblyInfo.cs
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\refint\Tio_Soft.Entity.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\Tio_Soft.Entity.genruntimeconfig.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.Entity\obj\Debug\net6.0\ref\Tio_Soft.Entity.dll

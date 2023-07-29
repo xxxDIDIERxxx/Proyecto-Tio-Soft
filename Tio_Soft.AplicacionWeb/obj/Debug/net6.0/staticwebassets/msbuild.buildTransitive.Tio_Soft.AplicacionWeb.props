@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tio_Soft.AplicacionWeb.props" />
+</Project>

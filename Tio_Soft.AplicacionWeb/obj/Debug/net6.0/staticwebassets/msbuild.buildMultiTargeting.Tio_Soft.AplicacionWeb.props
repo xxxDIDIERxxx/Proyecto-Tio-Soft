@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tio_Soft.AplicacionWeb.props" />
+</Project>

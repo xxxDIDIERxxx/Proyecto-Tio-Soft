@@ -1,0 +1,15 @@
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\bin\Debug\net6.0\Tio_Soft.DAL.deps.json
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\bin\Debug\net6.0\Tio_Soft.DAL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\bin\Debug\net6.0\Tio_Soft.DAL.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.AssemblyInfo.cs
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\refint\Tio_Soft.DAL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\ref\Tio_Soft.DAL.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\bin\Debug\net6.0\Tio_Soft.Entity.dll
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\bin\Debug\net6.0\Tio_Soft.Entity.pdb
+C:\Users\Usuario\Music\Tio_Soft\SolucionTio_Soft\Tio_Soft.DAL\obj\Debug\net6.0\Tio_Soft.DAL.csproj.CopyComplete
