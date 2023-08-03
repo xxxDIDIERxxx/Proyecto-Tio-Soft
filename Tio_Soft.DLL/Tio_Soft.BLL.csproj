@@ -7,13 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tio_Soft.DAL\Tio_Soft.DAL.csproj" />
-    <ProjectReference Include="..\Tio_Soft.Entity\Tio_Soft.Entity.csproj" />
+    <PackageReference Include="FirebaseAuthentication.net" Version="4.0.2" />
+    <PackageReference Include="FirebaseStorage.net" Version="1.0.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Implementacion\" />
-    <Folder Include="Interfaces\" />
+    <ProjectReference Include="..\Tio_Soft.DAL\Tio_Soft.DAL.csproj" />
+    <ProjectReference Include="..\Tio_Soft.Entity\Tio_Soft.Entity.csproj" />
   </ItemGroup>
 
 </Project>

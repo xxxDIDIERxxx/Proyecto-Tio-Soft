@@ -10,8 +10,8 @@ using Tio_Soft.DAL.DBContext;
 using Microsoft.EntityFrameworkCore;
 using Tio_Soft.DAL.Implementacion;
 using Tio_Soft.DAL.Interfaces;
-//using Tio_Soft.BLL.Implementacion;
-//using Tio_Soft.BLL.Interfaces;
+using Tio_Soft.BLL.Implementacion;
+using Tio_Soft.BLL.Interfaces;
 
 
 namespace Tio_Soft.IOC
@@ -28,6 +28,11 @@ namespace Tio_Soft.IOC
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository, VentaRepository>();
+
+            //dependencia de enviar correo
+            services.AddScoped<ICorreoService, CorreoService>();
+            //dependecia de subir imagenes
+            services.AddScoped<IFireBaseService, FireBaseService>();
         }
     }
 }
