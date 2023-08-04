@@ -1,19 +1,26 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-using Tio_Soft.BLL.Interfaces;
 using Firebase.Auth;
-using Firebase.Storage;
-using Tio_Soft.Entity;
-using Tio_Soft.DAL.Interfaces;
 using Firebase.Auth.Providers;
-using System.IO;
+using Firebase.Storage;
+using Tio_Soft.BLL.Interfaces;
+using Tio_Soft.DAL.Interfaces;
+using Tio_Soft.Entity;
 
 namespace Tio_Soft.BLL.Implementacion
 {
+    public static class FirebaseAuthProviderExt
+    {
+        public static Task<FirebaseAuthLinkConflictException> SignInWithEmailAndPasswordAsync(this FirebaseAuthProvider authProvider, string email, string password)
+        {
+            return authProvider.SignInWithEmailAndPasswordAsync(email, password);
+        }
+    }
+
     public class FireBaseService : IFireBaseService
     {
         private readonly IGenericRepository<Configuracion> _repositorio;
@@ -23,7 +30,7 @@ namespace Tio_Soft.BLL.Implementacion
             _repositorio = repositorio;
         }
 
-        public async Task<string> SubirStorage(FileStream StreamArchivo, string CarpetaDestino, string NombreArchivo)
+        public async Task<string> SubirStorage(Stream StreamArchivo, string CarpetaDestino, string NombreArchivo)
         {
             string UrlImagen = "";
 
@@ -34,11 +41,11 @@ namespace Tio_Soft.BLL.Implementacion
                 Dictionary<string, string> Config = query.ToDictionary(keySelector: c => c.Propiedad, elementSelector: c => c.Valor);
 
                 //Autorizacion
-                var auth = new FirebaseAuthProvider(new FirebaseAuthConfig(Config["api_key"]));
+                var auth = new FirebaseAuthProvider(new FirebaseConfig(Config["api_key"]));
                 var a = await auth.SignInWithEmailAndPasswordAsync(Config["email"], Config["clave"]);
 
                 //token de cancelacion de origen
-                var cancellation = new CancellationTokenSource();
+                var cancellation = new System.Threading.CancellationTokenSource();
 
                 //tarea que ejecuta el servicio de FireBaseStorage
                 var task = new FirebaseStorage(
@@ -64,7 +71,6 @@ namespace Tio_Soft.BLL.Implementacion
             return UrlImagen;
         }
 
-
         public async Task<bool> EliminarStorage(string CarpetaDestino, string NombreArchivo)
         {
             try
@@ -74,11 +80,11 @@ namespace Tio_Soft.BLL.Implementacion
                 Dictionary<string, string> Config = query.ToDictionary(keySelector: c => c.Propiedad, elementSelector: c => c.Valor);
 
                 //Autorizacion
-                var auth = new FirebaseAuthProvider(new FirebaseAuthConfig(Config["api_key"]));
+                var auth = new FirebaseAuthProvider(new FirebaseConfig(Config["api_key"]));
                 var a = await auth.SignInWithEmailAndPasswordAsync(Config["email"], Config["clave"]);
 
                 //token de cancelacion de origen
-                var cancellation = new CancellationTokenSource();
+                var cancellation = new System.Threading.CancellationTokenSource();
 
                 //tarea que ejecuta el servicio de FireBaseStorage
                 var task = new FirebaseStorage(
@@ -106,3 +112,4 @@ namespace Tio_Soft.BLL.Implementacion
         }
     }
 }
+*/

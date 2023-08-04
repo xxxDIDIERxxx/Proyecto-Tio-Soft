@@ -31,8 +31,16 @@ namespace Tio_Soft.IOC
 
             //dependencia de enviar correo
             services.AddScoped<ICorreoService, CorreoService>();
-            //dependecia de subir imagenes
-            services.AddScoped<IFireBaseService, FireBaseService>();
+
+            /*//dependecia de subir imagenes
+            services.AddScoped<IFireBaseService, FireBaseService>();*/
+            
+            //dependecia de utilidades
+            services.AddScoped<IUtilidadesService, UtilidadesService>();
+
+            //dependencia de roles
+            services.AddScoped<IRolService, RolService>();
+
         }
     }
 }

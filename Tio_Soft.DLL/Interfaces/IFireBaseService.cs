@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,3 +14,4 @@ namespace Tio_Soft.BLL.Interfaces
         Task<bool> EliminarStorage(string CarpetaDestino, string NombreArchivo);
     }
 }
+*/
