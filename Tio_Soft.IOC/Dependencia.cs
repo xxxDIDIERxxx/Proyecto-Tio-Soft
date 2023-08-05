@@ -39,7 +39,10 @@ namespace Tio_Soft.IOC
             services.AddScoped<IUtilidadesService, UtilidadesService>();
 
             //dependencia de roles
-            services.AddScoped<IRolService, RolService>();
+            services.AddScoped<IRolService, RolService>();            
+            
+            //dependencia de usuarios
+            services.AddScoped<IUsuarioService, UsuarioService>();
 
         }
     }
