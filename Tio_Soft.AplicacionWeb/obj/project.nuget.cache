@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/NRam7DHMm6g9UbZp2fU8M9zdnlPI7An5tUtDHikkCrh8PBQp0u7xkhh7iMukRhAL0LMKieTYo9yudIFtqHkDw==",
+  "dgSpecHash": "WzYNsRpq5jNj9sjl+Pz5GIGd//jnaKUzKzZvwFiJq4adimzGV12C+c8jFLw3nAW2KxAgzmkTJGDo3XdR9IWIoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Music\\Tio_Soft\\SolucionTio_Soft\\Tio_Soft.AplicacionWeb\\Tio_Soft.AplicacionWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\firebaseauthentication.net\\4.0.2\\firebaseauthentication.net.4.0.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
@@ -73,7 +75,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.0\\microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.0.0\\microsoft.codeanalysis.scripting.common.4.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.0.0\\microsoft.codeanalysis.workspaces.common.4.0.0.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.diasymreader\\1.3.0\\microsoft.diasymreader.1.3.0.nupkg.sha512",

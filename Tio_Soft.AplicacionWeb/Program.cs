@@ -1,4 +1,5 @@
 using Tio_Soft.IOC;
+using Tio_Soft.AplicacionWeb.Utilidades.Automapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.InyectarDependencia(builder.Configuration);
+
+//importamos toda la configuracion de automapper
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 var app = builder.Build();
 
