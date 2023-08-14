@@ -21,5 +21,6 @@ namespace Tio_Soft.DAL.Interfaces
         Task<bool> Eliminar(TEntity entidad);
 
         Task<IQueryable<TEntity>> Cunsultar(Expression<Func<TEntity, bool>> filtro = null);
+        //si
     }
 }
